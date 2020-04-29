@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\Учеба\2 курс\C#\Лабы\lab_8\lab_8\bin\Debug\lab_8.exe.config
+C:\Users\Acer\Desktop\Учеба\2 курс\C#\Лабы\lab_8\lab_8\bin\Debug\lab_8.exe
+C:\Users\Acer\Desktop\Учеба\2 курс\C#\Лабы\lab_8\lab_8\bin\Debug\lab_8.pdb
+C:\Users\Acer\Desktop\Учеба\2 курс\C#\Лабы\lab_8\lab_8\obj\Debug\lab_8.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Учеба\2 курс\C#\Лабы\lab_8\lab_8\obj\Debug\lab_8.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Учеба\2 курс\C#\Лабы\lab_8\lab_8\obj\Debug\lab_8.exe
+C:\Users\Acer\Desktop\Учеба\2 курс\C#\Лабы\lab_8\lab_8\obj\Debug\lab_8.pdb
